@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>мог сухореченский где-то тут</name>
+      <description>16.05.2023 0:32:29</description>
+      <Style>
+        <LabelStyle>
+          <color>A600FFFF</color>
+          <scale>1</scale>
+        </LabelStyle>
+        <IconStyle>
+          <scale>0.3125</scale>
+          <Icon>
+            <href>files/hospitals.png</href>
+          </Icon>
+          <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        </IconStyle>
+      </Style>
+      <Point>
+        <extrude>1</extrude>
+        <coordinates>60.8305336944444,52.9441775833333,0 </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
